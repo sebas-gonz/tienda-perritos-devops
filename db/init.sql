@@ -16,4 +16,4 @@ INSERT INTO productos (nombre, descripcion, precio, stock) VALUES
 ('Alimento Adulto Pedigree', 'Sabor carne', 15990, 40),
 ('Bravery pollo Adulto raza pequena', 'Sabor a pollo', 25990, 20);
 
--- Evaluacion 2 pipe line db
+-- Evaluacion 2 test pipe line db
